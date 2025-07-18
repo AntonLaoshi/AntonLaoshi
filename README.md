@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on **open-source projects, web development, and design initiatives**  
 - 📫 How to reach me: **[e-mail: anton_kostyuk@mail.ru / Telegram: @anton_kostyuk]**  
 - 😄 Pronouns: **He/Him** 
-- ⚡ Fun fact: **I started coding because I wanted to build my own teching app! 💻**  
+- ⚡ Fun fact: **I started coding because I wanted to build my own teaching app! 💻**  
 
 <!---
 AntonLaoshi/AntonLaoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
